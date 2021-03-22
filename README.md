@@ -31,7 +31,7 @@ I'm Abdullah, developer From
 </p>
 
 
-### 📝 Latest Blog Posts
+### 📝 My Latest Videos
 - [تجربة الانقطاع عن مواقع التواصل الاجتماعي || نصائح وخطوات عملية لتحقيق الاعتدال بث مباشر](https://www.youtube.com/watch?v=Oik1Ypo2Q3U)
 - [اختصارات visual studio code !!](https://www.youtube.com/watch?v=GPsGH2qHR18)
 - [خرافة التحفيز !!](https://www.youtube.com/watch?v=IluSi5piwGA)
