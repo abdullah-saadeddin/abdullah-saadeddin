@@ -32,11 +32,12 @@ I'm Abdullah, developer From
 
 
 ### 📝 Latest Blog Posts
-- [4 Games to Level Up Your CSS Skills](https://jatinrao.dev/4-games-to-level-up-your-css-skills)
-- [Beginners Guide To Markdown](https://jatinrao.dev/beginners-guide-to-markdown)
-- [12 HTML Tags You Don't Know](https://jatinrao.dev/12-html-tags-you-dont-know)
-- [Monthly Reflection - August 2020](https://jatinrao.dev/monthly-reflection-august-2020)
-- [Fear Of Missing Out As A Developer](https://jatinrao.dev/fear-of-missing-out-as-developer)
+- [تجربة الانقطاع عن مواقع التواصل الاجتماعي || نصائح وخطوات عملية لتحقيق الاعتدال بث مباشر](https://www.youtube.com/watch?v=Oik1Ypo2Q3U)
+- [اختصارات visual studio code !!](https://www.youtube.com/watch?v=GPsGH2qHR18)
+- [خرافة التحفيز !!](https://www.youtube.com/watch?v=IluSi5piwGA)
+- [صنعت برنامج يربط نوشن ب تك تك || مشاريع لتعلم البرمجة || يوميات مبرمج](https://www.youtube.com/watch?v=6FeT1RvI_6c)
+- [ما هي رياكت ولماذا تستعمل شرح React](https://www.youtube.com/watch?v=CdK-drC8xnE)
+- [كيف تزيد ارباحك من الفتوشوب بالبرمجة !!](https://www.youtube.com/watch?v=Uk4EYcVNUkY)
 
 ### 📬 Get in touch
 [![YouTube Badge](https://img.shields.io/badge/-@AbdullahSaadEddin-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://youtube.com/AbdullahSaadEddin)](https://youtube.com/AbdullahSaadEddin) 
