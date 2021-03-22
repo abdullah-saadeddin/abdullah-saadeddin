@@ -12,14 +12,8 @@ I'm Abdullah, developer From
 - 📹 I create [YouTube videos about Programing and Productivity](https://youtube.com/AbdullahSaadEddin).
 - 🧪 6 years of experience in the Content Creation industry and photo/video Editing softwares.
 
-### 📬 Get in touch
-[![YouTube Badge](https://img.shields.io/badge/-@AbdullahSaadEddin-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://youtube.com/AbdullahSaadEddin)](https://youtube.com/AbdullahSaadEddin) 
-[![Twitter Badge](https://img.shields.io/badge/-@abdullahsaadeddin-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abdullahsadedin)](https://twitter.com/abdullahsadedin) 
-[![Instagram Badge](https://img.shields.io/badge/-@abdullah_sadeddin-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/abdullah_sadeddin/)](https://www.instagram.com/abdullah_sadeddin/) 
-[![Linkedin Badge](https://img.shields.io/badge/-abdullahsaadeddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-saadeddin/)](https://www.linkedin.com/in/abdullah-saadeddin/)
-[![Gmail Badge](https://img.shields.io/badge/-abdullahsaadeddin.yt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdullahsaadeddin.yt@gmail.com)](mailto:abdullahsaadeddin.yt@gmail.com)
 
-### 💻 Things I code with
+### 👨🏻‍💻 Things I code with
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
@@ -34,4 +28,23 @@ I'm Abdullah, developer From
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Cplusplus" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black" />
-  </p>
+</p>
+
+
+### 📝 Latest Blog Posts
+- [4 Games to Level Up Your CSS Skills](https://jatinrao.dev/4-games-to-level-up-your-css-skills)
+- [Beginners Guide To Markdown](https://jatinrao.dev/beginners-guide-to-markdown)
+- [12 HTML Tags You Don't Know](https://jatinrao.dev/12-html-tags-you-dont-know)
+- [Monthly Reflection - August 2020](https://jatinrao.dev/monthly-reflection-august-2020)
+- [Fear Of Missing Out As A Developer](https://jatinrao.dev/fear-of-missing-out-as-developer)
+
+### 📬 Get in touch
+[![YouTube Badge](https://img.shields.io/badge/-@AbdullahSaadEddin-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://youtube.com/AbdullahSaadEddin)](https://youtube.com/AbdullahSaadEddin) 
+[![Twitter Badge](https://img.shields.io/badge/-@abdullahsaadeddin-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abdullahsadedin)](https://twitter.com/abdullahsadedin) 
+[![Instagram Badge](https://img.shields.io/badge/-@abdullah_sadeddin-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/abdullah_sadeddin/)](https://www.instagram.com/abdullah_sadeddin/) 
+[![Linkedin Badge](https://img.shields.io/badge/-abdullahsaadeddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-saadeddin/)](https://www.linkedin.com/in/abdullah-saadeddin/)
+
+
+### 📚 Looking for my Resume? E-Mail me!
+[![Gmail Badge](https://img.shields.io/badge/-abdullahsaadeddin.yt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdullahsaadeddin.yt@gmail.com)](mailto:abdullahsaadeddin.yt@gmail.com)
+
