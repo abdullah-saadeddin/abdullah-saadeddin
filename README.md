@@ -6,9 +6,9 @@ I'm Abdullah, developer From
 
 ![](https://komarev.com/ghpvc/?username=abdullah-saadeddin&label=PROFILE+VIEWS&color=yellow)
 ### 🔤 Who am I
-- 💻 Computer Engineering Student at An-Najah National University.
-- 🌱 CEO and Co-Founder of the Wadq co.
-- 🧠 AI and Automation is one of the areas that I am most interested in.
+- 🌐 QA/Automation Engineer at Cisco.
+- 💻 Computer Engineer .
+- 🌱 Co-Founder of the Wadq co.
 - 📹 I create [YouTube videos about Programing and Productivity](https://youtube.com/AbdullahSaadEddin).
 - 🧪 6 years of experience in the Content Creation industry and photo/video Editing softwares.
 
